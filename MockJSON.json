@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "category": "Creations",
+    "image": "img/content/Presentations.png",
+    "title": "Presentations"
+  },
+  {
+    "id": 2,
+    "category": "Bin",
+    "image": "img/content/infographics.png",
+    "title": "Infographics"
+  },
+  {
+    "id": 3,
+    "category": "My brand",
+    "image": "img/content/Cursor.png",
+    "title": "Gamification"
+  },
+  {
+    "id": 4,
+    "category": "Inspiration",
+    "image": "img/content/Interactive.png",
+    "title": "Interactive Image"
+  },
+  {
+    "id": 5,
+    "category": "Starred",
+    "image": "img/content/Video.png",
+    "title": "Video Presentation"
+  },
+  {
+    "id": 6,
+    "category": "Creations",
+    "image": "img/content/Guide.png",
+    "title": "Guide"
+  },
+  {
+    "id": 7,
+    "category": "Creations",
+    "image": "img/content/Training.png",
+    "title": "Training Materials"
+  },
+  {
+    "id": 8,
+    "category": "Creations",
+    "image": "img/content/More.png",
+    "title": "More"
+  },
+  {
+    "id": 9,
+    "category": "Creations",
+    "image": "img/content/Paper.png",
+    "title": "Blank Creations"
+  },
+  {
+    "id": 10,
+    "category": "Creations",
+    "image": "img/content/Presentations.png",
+    "title": "Presentations"
+  },
+  {
+    "id": 11,
+    "category": "Bin",
+    "image": "img/content/infographics.png",
+    "title": "Infographics"
+  },
+  {
+    "id": 12,
+    "category": "My brand",
+    "image": "img/content/Cursor.png",
+    "title": "Gamification"
+  },
+  {
+    "id": 13,
+    "category": "Inspiration",
+    "image": "img/content/Interactive.png",
+    "title": "Interactive Image"
+  },
+  {
+    "id": 14,
+    "category": "Starred",
+    "image": "img/content/Video.png",
+    "title": "Video Presentation"
+  },
+  {
+    "id": 15,
+    "category": "Creations",
+    "image": "img/content/Guide.png",
+    "title": "Guide"
+  },
+  {
+    "id": 16,
+    "category": "Creations",
+    "image": "img/content/Training.png",
+    "title": "Training Materials"
+  },
+  {
+    "id": 17,
+    "category": "Creations",
+    "image": "img/content/More.png",
+    "title": "More"
+  },
+  {
+    "id": 18,
+    "category": "Creations",
+    "image": "img/content/Paper.png",
+    "title": "Blank Creations"
+  },
+  {
+    "id": 19,
+    "category": "Creations",
+    "image": "img/content/Presentations.png",
+    "title": "Presentations"
+  },
+  {
+    "id": 20,
+    "category": "Bin",
+    "image": "img/content/infographics.png",
+    "title": "Infographics"
+  }
+]
